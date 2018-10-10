@@ -1,12 +1,13 @@
-class Person
+class CashRegister
 
-  attr_accessor :age
-
-  def initialize(age = 0)
-    @age = age
+  
+  def initialize cash_register(cash_register)
+    @cash_register = cash_register
   end
-
-  def birthday
-    self.age += 1
-  end
+    
+  
+  
+  
+  
 end
+
