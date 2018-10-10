@@ -6,7 +6,5 @@ attr_accessor :total
     @total = cash_register
   end
 
-def cash_register_with_discount
-  self. total += 1
-end
+
 end
