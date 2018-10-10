@@ -16,7 +16,7 @@ def add_item(title, amount, quantity = 1)
    self.last_transaction = amount * quantity
  end
 
-  
+
 end
 
 end
