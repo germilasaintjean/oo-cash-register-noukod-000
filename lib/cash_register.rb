@@ -8,8 +8,9 @@ attr_accessor :cash_register
 
 def cash_register_with_discount
   self. cash_register += 1
-ende
+end
 
 
 
 end
+
