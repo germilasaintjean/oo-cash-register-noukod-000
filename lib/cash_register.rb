@@ -6,5 +6,5 @@ attr_accessor :total, :discount, :add_item
     @total = cash_register
     @discount = cash_register
   end
-  
+
 end
